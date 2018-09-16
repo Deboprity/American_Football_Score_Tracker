@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">American Football Score Tracker</string>
+    <string name="team_a_label">Team A</string>
+    <string name="touchdown_6">Touchdown +6</string>
+    <string name="field_goal_3">Field goal +3</string>
+    <string name="two_point_conversation_2">Two point conversation +2</string>
+    <string name="safety_2">Safety +2</string>
+    <string name="extra_point_1">Extra point +1</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+</resources>

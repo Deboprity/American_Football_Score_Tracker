@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#1565C0</item>
+        <!-- Primary theme color of the app (sets text color of app bar) -->
+        <item name="colorAccent">#FAFAFA</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#757575</item>
+        <!-- Text color of buttons in the app -->
+        <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Button.Custom</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Button.Custom">
+        <item name="android:textColor">#FAFAFA</item>
+    </style>
+</resources>
